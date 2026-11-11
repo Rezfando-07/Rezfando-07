@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Rezfando-07/Rezfando-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rezfando! 👋
 
-Here are some ideas to get you started:
+💻 Informatics Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+## 👨‍💻 About Me
+- 🌱 Currently learning programming
+- 💡 Interested in software development
+- 🎯 Always learning something new
+
+## 🛠️ Skills
+- Java
+- Python
+- HTML
+- CSS
+
+## 📚 Currently Learning
+- Programming Fundamentals
+- Software Development
+- Web Development
+
+## 📂 My Projects
+Coming soon...
+
+## ✨ Motto
+"Never Know, Never Stop Learning."
