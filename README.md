@@ -1,28 +1,26 @@
 
-# Hi, I'm Rezfando! 👋
+# Hi, I'm Rezfando Melandes! 👋
 
-💻 Informatics Student
+💻 Beginner Programmer
 
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning programming
-- 💡 Interested in software development
-- 🎯 Always learning something new
+- 🎓 Interested in Informatics
+- 💡 Curious about technology
+- 🚀 Learning something new every day
 
-## 🛠️ Skills
-- Java
-- Python
-- HTML
-- CSS
-
-## 📚 Currently Learning
+## 📖 Currently Learning
 - Programming Fundamentals
-- Software Development
-- Web Development
+- Java
 
 ## 📂 My Projects
-Coming soon...
+Still learning and building my first projects!
+
+## 🎯 My Goal
+To become a better programmer
+and create something useful.
 
 ## ✨ Motto
-"Never Know, Never Stop Learning."
+"Never Stop Learning."
